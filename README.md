@@ -140,3 +140,4 @@ Then, I will provide feedback on your solution, and we can discuss it further in
 | Link to the repository |
 |------------------------|
 | [jfaldanam/py_challenge_solution](https://github.com/jfaldanam/py_challenge_solution) |
+| [cberdejo/python-machine-learning-challenge](https://github.com/cberdejo/python-machine-learning-challenge)|
