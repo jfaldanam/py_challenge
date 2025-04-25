@@ -141,3 +141,4 @@ Then, I will provide feedback on your solution, and we can discuss it further in
 |------------------------|
 | [jfaldanam/py_challenge_solution](https://github.com/jfaldanam/py_challenge_solution) |
 | [nicopietro/mbd_challenge](https://github.com/nicopietro/mbd_challenge) |
+| [cberdejo/python-machine-learning-challenge](https://github.com/cberdejo/python-machine-learning-challenge)|
